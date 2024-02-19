@@ -11,6 +11,18 @@ namespace MuniMenu.Adapters.ThirdParty.Extensions
             //TODO use Scrutor
             services.AddSingleton<IRestaurant, AnnapurnaRestaurant>();
             services.AddSingleton<IRestaurant, DivaBaraRestaurant>();
+            services.AddSingleton<IRestaurant, AlcaponeRestaurant>();
+            services.AddSingleton<IRestaurant, BistroMinisteroRestaurant>();
+            services.AddSingleton<IRestaurant, TheImmigrantRestaurant>();
+            services.AddSingleton<IRestaurant, GardenRestaurant>();
+            services.AddSingleton<IRestaurant, GardenFoodConceptRestaurant>();
+            services.AddSingleton<IRestaurant, NaRuzkuRestaurant>();
+            services.AddSingleton<IRestaurant, PlzenskyDvurRestaurant>();
+            services.AddSingleton<IRestaurant, StavbaRestaurant>();
+            services.AddSingleton<IRestaurant, UDrevakaRestaurant>();
+            services.AddSingleton<IRestaurant, UKarlaRestaurant>();
+            services.AddSingleton<IRestaurant, UMachalaRestaurant>();
+            services.AddSingleton<IRestaurant, ZelenaKockaRestaurant>();
             
             return services;
         }

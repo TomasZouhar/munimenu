@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MuniMenu.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+558a73a4d10375bf05eaa312c336be33a0a31b82")]
 [assembly: System.Reflection.AssemblyProductAttribute("MuniMenu.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MuniMenu.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

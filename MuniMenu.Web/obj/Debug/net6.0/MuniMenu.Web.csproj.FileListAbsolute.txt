@@ -58,3 +58,4 @@
 /Users/tomas/RiderProjects/muni_menu/MuniMenu.Web/obj/Debug/net6.0/MuniMenu.Web.pdb
 /Users/tomas/RiderProjects/muni_menu/MuniMenu.Web/obj/Debug/net6.0/MuniMenu.Web.genruntimeconfig.cache
 /Users/tomas/RiderProjects/muni_menu/MuniMenu.Web/obj/Debug/net6.0/ref/MuniMenu.Web.dll
+/Users/tomas/RiderProjects/muni_menu/MuniMenu.Web/obj/Debug/net6.0/MuniMenu.Web.sourcelink.json

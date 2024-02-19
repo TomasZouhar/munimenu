@@ -30,6 +30,7 @@ namespace MuniMenu.Web.Services
             var restaurants = Enum.GetValues(typeof(RestaurantType)).Cast<RestaurantType>()
                 .Select(async s =>
                 {
+                    Console.WriteLine(s);
                     var restaurant = JsonSerializer.Deserialize<RestaurantResponse>(_cache.GetString(GetRestaurantKey(s)));
                     var restaurantType = (RestaurantType)Enum.Parse(typeof(RestaurantType), restaurant!.Name);
                     var restaurantVote = await GetVotesAsync(restaurantType);

@@ -9,3 +9,4 @@
 /Users/tomas/RiderProjects/muni_menu/MuniMenu.Domain/obj/Debug/net6.0/refint/MuniMenu.Domain.dll
 /Users/tomas/RiderProjects/muni_menu/MuniMenu.Domain/obj/Debug/net6.0/MuniMenu.Domain.pdb
 /Users/tomas/RiderProjects/muni_menu/MuniMenu.Domain/obj/Debug/net6.0/ref/MuniMenu.Domain.dll
+/Users/tomas/RiderProjects/muni_menu/MuniMenu.Domain/obj/Debug/net6.0/MuniMenu.Domain.sourcelink.json
