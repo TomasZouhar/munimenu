@@ -1,3 +1,3 @@
-# luncher
+# MuniMenu
 
-Luncher Web - http://luncher-app.azurewebsites.net/
+Displays menu of restaurants close to MUNI FI

@@ -2,19 +2,19 @@
 {
     public enum RestaurantType
     {
-        Annapurna = 1,
-        DivaBara = 2,
-        Alcapone = 3,
-        UMachala = 4,
-        NaRuzku = 5,
-        UDrevaka = 6,
+        DivaBara = 1,
+        Alcapone = 2,
+        UDrevaka = 3,
+        UKarala = 4,
+        GardenFoodConcept = 5,
+        NaRuzku = 6,
         PlzenskyDvur = 7,
-        BistroMinistero = 8,
-        UKarala = 9,
-        ZelenaKocka = 10,
-        TheImmigrant = 11,
-        Stavba = 12,
-        GardenFoodConcept = 13,
-        Garden = 14,
+        Garden = 8,
+        Stavba = 9,
+        UMachala = 10,
+        ZelenaKocka = 11,
+        BistroMinistero = 12,
+        TheImmigrant = 13,
+        Annapurna = 14
     }
 }
