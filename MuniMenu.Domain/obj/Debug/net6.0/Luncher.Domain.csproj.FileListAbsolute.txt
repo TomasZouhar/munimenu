@@ -1,0 +1,11 @@
+/Users/tomas/RiderProjects/muni_menu/Luncher.Domain/bin/Debug/net6.0/Luncher.Domain.deps.json
+/Users/tomas/RiderProjects/muni_menu/Luncher.Domain/bin/Debug/net6.0/Luncher.Domain.dll
+/Users/tomas/RiderProjects/muni_menu/Luncher.Domain/bin/Debug/net6.0/Luncher.Domain.pdb
+/Users/tomas/RiderProjects/muni_menu/Luncher.Domain/obj/Debug/net6.0/Luncher.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomas/RiderProjects/muni_menu/Luncher.Domain/obj/Debug/net6.0/Luncher.Domain.AssemblyInfoInputs.cache
+/Users/tomas/RiderProjects/muni_menu/Luncher.Domain/obj/Debug/net6.0/Luncher.Domain.AssemblyInfo.cs
+/Users/tomas/RiderProjects/muni_menu/Luncher.Domain/obj/Debug/net6.0/Luncher.Domain.csproj.CoreCompileInputs.cache
+/Users/tomas/RiderProjects/muni_menu/Luncher.Domain/obj/Debug/net6.0/Luncher.Domain.dll
+/Users/tomas/RiderProjects/muni_menu/Luncher.Domain/obj/Debug/net6.0/refint/Luncher.Domain.dll
+/Users/tomas/RiderProjects/muni_menu/Luncher.Domain/obj/Debug/net6.0/Luncher.Domain.pdb
+/Users/tomas/RiderProjects/muni_menu/Luncher.Domain/obj/Debug/net6.0/ref/Luncher.Domain.dll

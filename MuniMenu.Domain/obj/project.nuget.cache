@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JbMhQFc1ya4CKfEpo4KfU4mCl8jjAGkq79A/8IioX+T3zGk7dVQRQxx6d553Z3gn1Fy11gwFLEEcSiriThxQXA==",
+  "success": true,
+  "projectFilePath": "/Users/tomas/RiderProjects/muni_menu/MuniMenu.Domain/MuniMenu.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/tomas/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "/Users/tomas/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

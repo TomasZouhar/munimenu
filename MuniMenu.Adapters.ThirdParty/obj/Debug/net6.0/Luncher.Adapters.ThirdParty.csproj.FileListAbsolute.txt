@@ -1,0 +1,15 @@
+/Users/tomas/RiderProjects/muni_menu/Luncher.Adapters.ThirdParty/bin/Debug/net6.0/Luncher.Adapters.ThirdParty.deps.json
+/Users/tomas/RiderProjects/muni_menu/Luncher.Adapters.ThirdParty/bin/Debug/net6.0/Luncher.Adapters.ThirdParty.dll
+/Users/tomas/RiderProjects/muni_menu/Luncher.Adapters.ThirdParty/bin/Debug/net6.0/Luncher.Adapters.ThirdParty.pdb
+/Users/tomas/RiderProjects/muni_menu/Luncher.Adapters.ThirdParty/bin/Debug/net6.0/Luncher.Domain.dll
+/Users/tomas/RiderProjects/muni_menu/Luncher.Adapters.ThirdParty/bin/Debug/net6.0/Luncher.Domain.pdb
+/Users/tomas/RiderProjects/muni_menu/Luncher.Adapters.ThirdParty/obj/Debug/net6.0/Luncher.Adapters.ThirdParty.csproj.AssemblyReference.cache
+/Users/tomas/RiderProjects/muni_menu/Luncher.Adapters.ThirdParty/obj/Debug/net6.0/Luncher.Adapters.ThirdParty.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomas/RiderProjects/muni_menu/Luncher.Adapters.ThirdParty/obj/Debug/net6.0/Luncher.Adapters.ThirdParty.AssemblyInfoInputs.cache
+/Users/tomas/RiderProjects/muni_menu/Luncher.Adapters.ThirdParty/obj/Debug/net6.0/Luncher.Adapters.ThirdParty.AssemblyInfo.cs
+/Users/tomas/RiderProjects/muni_menu/Luncher.Adapters.ThirdParty/obj/Debug/net6.0/Luncher.Adapters.ThirdParty.csproj.CoreCompileInputs.cache
+/Users/tomas/RiderProjects/muni_menu/Luncher.Adapters.ThirdParty/obj/Debug/net6.0/Luncher.Adapters.ThirdParty.csproj.CopyComplete
+/Users/tomas/RiderProjects/muni_menu/Luncher.Adapters.ThirdParty/obj/Debug/net6.0/Luncher.Adapters.ThirdParty.dll
+/Users/tomas/RiderProjects/muni_menu/Luncher.Adapters.ThirdParty/obj/Debug/net6.0/refint/Luncher.Adapters.ThirdParty.dll
+/Users/tomas/RiderProjects/muni_menu/Luncher.Adapters.ThirdParty/obj/Debug/net6.0/Luncher.Adapters.ThirdParty.pdb
+/Users/tomas/RiderProjects/muni_menu/Luncher.Adapters.ThirdParty/obj/Debug/net6.0/ref/Luncher.Adapters.ThirdParty.dll

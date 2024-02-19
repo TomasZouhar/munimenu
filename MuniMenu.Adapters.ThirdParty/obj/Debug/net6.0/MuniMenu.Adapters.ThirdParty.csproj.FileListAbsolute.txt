@@ -1,0 +1,15 @@
+/Users/tomas/RiderProjects/muni_menu/MuniMenu.Adapters.ThirdParty/bin/Debug/net6.0/MuniMenu.Adapters.ThirdParty.deps.json
+/Users/tomas/RiderProjects/muni_menu/MuniMenu.Adapters.ThirdParty/bin/Debug/net6.0/MuniMenu.Adapters.ThirdParty.dll
+/Users/tomas/RiderProjects/muni_menu/MuniMenu.Adapters.ThirdParty/bin/Debug/net6.0/MuniMenu.Adapters.ThirdParty.pdb
+/Users/tomas/RiderProjects/muni_menu/MuniMenu.Adapters.ThirdParty/bin/Debug/net6.0/MuniMenu.Domain.dll
+/Users/tomas/RiderProjects/muni_menu/MuniMenu.Adapters.ThirdParty/bin/Debug/net6.0/MuniMenu.Domain.pdb
+/Users/tomas/RiderProjects/muni_menu/MuniMenu.Adapters.ThirdParty/obj/Debug/net6.0/MuniMenu.Adapters.ThirdParty.csproj.AssemblyReference.cache
+/Users/tomas/RiderProjects/muni_menu/MuniMenu.Adapters.ThirdParty/obj/Debug/net6.0/MuniMenu.Adapters.ThirdParty.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomas/RiderProjects/muni_menu/MuniMenu.Adapters.ThirdParty/obj/Debug/net6.0/MuniMenu.Adapters.ThirdParty.AssemblyInfoInputs.cache
+/Users/tomas/RiderProjects/muni_menu/MuniMenu.Adapters.ThirdParty/obj/Debug/net6.0/MuniMenu.Adapters.ThirdParty.AssemblyInfo.cs
+/Users/tomas/RiderProjects/muni_menu/MuniMenu.Adapters.ThirdParty/obj/Debug/net6.0/MuniMenu.Adapters.ThirdParty.csproj.CoreCompileInputs.cache
+/Users/tomas/RiderProjects/muni_menu/MuniMenu.Adapters.ThirdParty/obj/Debug/net6.0/MuniMenu.Adapters.ThirdParty.csproj.CopyComplete
+/Users/tomas/RiderProjects/muni_menu/MuniMenu.Adapters.ThirdParty/obj/Debug/net6.0/MuniMenu.Adapters.ThirdParty.dll
+/Users/tomas/RiderProjects/muni_menu/MuniMenu.Adapters.ThirdParty/obj/Debug/net6.0/refint/MuniMenu.Adapters.ThirdParty.dll
+/Users/tomas/RiderProjects/muni_menu/MuniMenu.Adapters.ThirdParty/obj/Debug/net6.0/MuniMenu.Adapters.ThirdParty.pdb
+/Users/tomas/RiderProjects/muni_menu/MuniMenu.Adapters.ThirdParty/obj/Debug/net6.0/ref/MuniMenu.Adapters.ThirdParty.dll
